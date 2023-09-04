@@ -1,5 +1,5 @@
 # DesignProject
-![alt text](https://github.com/bungaura/DesignProject/tree/main/FARBUCKS/farbucks.png)
+<img width="1658" alt="farbucks" src="https://github.com/bungaura/DesignProject/assets/88443222/82305040-c395-4935-a8bb-a67a375e30aa">
 
 Welcome to my Art of Intuitive Experiences Repository! 🚀
 
